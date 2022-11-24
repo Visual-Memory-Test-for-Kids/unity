@@ -1,0 +1,244 @@
+F:\Programming\Unity\PilahSampah\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\nunit.framework.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEditor.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Mono.Cecil.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Unity.DataContract.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\ExCSS.Unity.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.xml
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEditor.xml
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\nunit.framework.xml
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\Programming\Unity\PilahSampah\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\Programming\Unity\PilahSampah\obj\Debug\Assembly-CSharp.dll
+F:\Programming\Unity\PilahSampah\obj\Debug\Assembly-CSharp.pdb
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\obj\Debug\Assembly-CSharp.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\obj\Debug\Assembly-CSharp.pdb
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\nunit.framework.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.xml
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEditor.xml
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\nunit.framework.xml
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\ASUS F SERIES\Desktop\PilahSampah\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\Programming\Unity\PilahSampah\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\Programming\Unity\PilahSampah\obj\Debug\Assembly-CSharp.dll
+G:\Programming\Unity\PilahSampah\obj\Debug\Assembly-CSharp.pdb
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Boo.Lang.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\mscorlib.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\nunit.framework.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\System.Core.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\System.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\System.Xml.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\System.Xml.Linq.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.Analytics.Editor.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.Locator.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEditor.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.Advertisements.Editor.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.VFXModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityScript.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityScript.Lang.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.Cecil.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.DataContract.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEditor.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.VFXModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\nunit.framework.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Mulmed update\PilahSampah\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Mulmed update\PilahSampah\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Mulmed update\PilahSampah\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Mulmed update\PilahSampah\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\Mulmed update\PilahSampah\obj\Debug\Assembly-CSharp.dll
+E:\Mulmed update\PilahSampah\obj\Debug\Assembly-CSharp.pdb

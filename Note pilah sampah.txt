@@ -1,0 +1,139 @@
+- Project Window digunakan untuk menampilkan daftar asset yang dapat digunakan di project. saat menambahkan asset baru maka akan muncul di project window
+- Inspecture window digunakan untuk mengedit semua properties pada object yang masih aktif
+- Scene window digunakan untuk melihat secara keseluruhan dari object yang digunakan di game. Scene window juga dapat mengedit object baik posisi, rotasi maupun skala.
+- Keterangan Scene window adalah 
+  1. Untuk mengubah tampilan ke 2D atau 3D
+  2. Ruang editor game untuk mengubah posisi, skala, dan, rotasi sebuah game object
+  3. Menentukan arah sudut pada suatu bidang ruang
+- Hierarchy window digunakan untuk melihat daftar game object apa saja yang ada didalam scene. Setiap object yang ada didalam scene pasti masuk di hierarchy
+- Toolbar digunakan untuk memmanipulasi scene view dan object-object didalamnya dari memindahkan posisi view, object, rotasi obejct hingga skala object.
+- Keterangan toolbar adalah
+  1. Tool untuk mengubah posisi, rotasi, dan skala sebuah object (ikon tangan, panah pindah, refresh, panah serong, dan persegi)
+  2. Tool untuk menentukan pivot atau center, Local dan Global ( tulisan pivot dan local)
+  3. Tool untuk menjalankan game (ikon paly, pause, dan next)
+  4. Tool untuk mengubah layout tampilan editor (default)
+- Game view digunakan untuk hasil akhir dari game yang nantinya akan ditampilkan ke user
+- Console Window untuk mengetahui log-log dalam script dan informasi error dan peringatan yang ada di script
+- Asset : Audio(file sound), Images(file gambar),Prefabs(pengaturan game object), Scenes(menyimpan halaman), Scripts(menyimpan hasil logika permainan/coding/pemrograman).
+- cara memasukkan gambar ke asset : buka folder images, klik kanan pada panel project, pilih import new asset lalu pilih gambar yang kita inginkan
+- Type Sprite adalah tipe gambar yang digunakan untuk object 2d dan juga object UI, sedangkan object 3d menggunakan type texture
+- Resolusi untuk mengatur interface dengan tampilan sama dengan resolusi target device
+- Cara menambah resolusi di Unity 2017.1.0f3 (64-bit) klik panel game klik resolusi pilih standalone, jika tidak sesuai keinginan dapat ditambah dengan klik "+" di bawah standalone
+- Menambah object dapat dilakukan dengan menggeser object dari panel project ke panel Hierarchy atau ke panel scene
+- Order in layer digunakan untuk melihat posisi yang mana terlebih dahulu ditampilkan. Jika nilai semakin besar maka gambar tersebut semakin terlihat lebih depan dari object lain. Selain itu dapat mengatur posisi sumbu Z untuk menentukan object terdepan yang mana satu.
+- Deep only adalah kondisi dimana secara default kamera tidak memberi background apapun dikarenakan menggunakan background sendiri.
+- Game Object adalah sebuah penamaan obejct di Unity.
+- Menu UI biasa digunakan untuk menampilkan interface menu atau informasi pada sebuah tampilan game yang bersifat 2D.
+- Game Object canvas digunakan untuk meletak object-object UI
+- Membuat script baru : buka folder script pada panel project, klik kanan pada area folder script, pilih create, pilih c#.
+- Jika kesulitan membuka script di monodevelop maupun visual studio dapat menggunakan notepad ++ sebagai editor script
+- float speed = 3f; (menyimpan nilai pecahan yang digunakan untuk menentukan kecepatan dengan nilai awal 3)
+- public Sprite[] sprites; ( menyimpan nilai array tunggal yang nantinya digunakan untuk menyimpan gambar yang berupa sprite)
+- void Start () { ( method ini hanya sekali dijalankan ketika pertama kali dijalankan)
+- int index = Random.Range(0, sprites.Length); (memberi nilai acak dengan batasan maksimal sejumlah array Sprite yang dimasukkan)
+- float move = (speed * Time.deltaTime * -1f) + transform.position.x; (menghitung pergerakan ke kiri berikutnya pada suatu object berdasarkan sumbu X)
+- transform.position = new Vector3(move, transform.position.y); (mengimplementasikan pergerakan secara horizontal pada game object)
+- private Vector3 screenPoint; (private digunakan ketika variabel tersebut hanya digunakan pada Class tersebut, Vector3 digunakan untuk menyimpan 3 nilai berupa X,Y,danZ. Screen Point digunakan untuk menyimpan nilai posisi object terhadap screen)
+- private Vector3 offset; ( variabel ini digunakan untuk menyimpan selisih posisi object dnegan posisi mouse)
+- private float firstY; ( variabel ini digunakan menyimpan posisi vertical awal yang nantinya digunakan untuk mengembalikan ke posisi semula) 
+- void OnMouseDown()
+                  {
+                  firstY = transform.position.y;
+                  screenPoint = Camera.main.WorldToScreenPoint(gameObject.transform.position);
+                  offset = gameObject.transform.position - Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenPoint.z));
+                  } 
+  ( Method ini dijalankan ketika mouse/ touch klik  pada sebuah Gameobject memiliki Collider. Method ini hanya sekali dijalankan ketika ada action dari mouse/touch. Method ini menjalankan code yang berfungsi untuk  melakukan inisialisasi terhadap Gameobject dan mouse yang nanti nilai tersebut akan digunakan untuk menggeser Gameobject tersebut.)
+- void OnMouseDrag()
+                  {
+                  Vector3 curScreenPoint = new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenPoint.z);
+                  Vector3 curPosition = Camera.main.ScreenToWorldPoint(curScreenPoint) + offset;
+                  transform.position = curPosition;
+                  } 
+  ( Method ini dijalankan ketika mouse/ touch klik dan tahan  pada sebuah Gameobject memiliki Collider. Method ini terus dijalankan sampai melepaskan untuk klik Gameobject tersebut. Method ini menjalankan code yang berfungsi untuk  melakukan pemindahan posisi Gameobject berdasarkan posisi mouse.)
+- private void OnMouseUp()
+                  {
+                  transform.position = new Vector3(transform.position.x,firstY, transform.position.z);
+                  }
+  ( Method ini dijalankan ketika mouse/ touch melepaskan klik  pada sebuah Gameobject memiliki Collider. Method ini hanya sekali dijalankan ketika mouse/touch melepaskan  klik terhadap Gameobject tersebut. Method ini menjalankan code yang berfungsi untuk  mengembalikan posisi pada Gameobject ke posisi awal.)
+-  public float jeda - 0.8f; (digunakan untuk menyimpan nilai jeda untuk berapa lama object sampah akan dimunculkan)
+- float timer; (digunakan untuk menyimpan waktu)
+- public GameObject[] obyekSampah; (digunakan untuk menyimpan object sampah yang nanti akan ditampilkan)
+- // Update is called once per frame
+            void Update()
+            {
+  ( Method ini akan terus dijalankan dengan kecepatan berdasarkan kecepatan prosessor yang dimiliki device)
+-  timer += Time.deltaTime;
+            if (timer > jeda)
+            {
+ ( Code ini akan memproses berdasarkan waktu jeda yang telah ditentukan)
+- int random = Random.Range(0, obyekSampah.Length); ( Code ini menentukan index object sampah secara acak yang akan dimunculkan)
+- Instantiate(obyekSampah[random], transform.position, transform.rotation); ( Code ini untuk memunculkan object Sampah dari index yang telah ditentukan sebelumnya dengan posisi dan rotasi Gameoject yang terdapat Script ini.)
+- timer = 0; ( timer dikembalikan ke 0 untuk menghitung nilai jeda dari awal.)
+- using UnityEngine.SceneManagement; ( Untuk memanggil method SceneManager.LoadScene(), harus terdapat library UnityEngine.SceneManagement)
+- private void OnTriggerEnter2D(Collider2D collision) >> Method ini dijalankan ketika ada sebuah object yang masuk ke area Trigger.
+- Destroy(collision.gameObject); ( menghapus gameobject tersebut)
+- //SceneManager.LoadScene("Gameover", LoadSceneMode.Single); (membuka scene "Gameobject" (Scene "Gameover" baru dapat ditampilkan ketika Scene tersebut sudah terdaftar di Scene in Build))
+- public static int score; ( Digunakan untuk menyimpan score yang dapat diakses langsung tanpa harus deklarasi class nya)
+- using UnityEngine.UI; (Untuk Penggunaan Komponen UI, harus menambahkan Library UnityEngine.UI.)
+- public static int score; (Digunakan untuk menyimpan score yang dapat diakses langsung tanpa harus deklarasi classnya)
+- public string nameTag; (Digunakan untuk menyimpan string namaTag yang nanti akan digunakan untuk filter gameobject apa saja yang akan di proses.)
+- public AudioClip audioBenar;
+  public AudioClip audioSalah;
+  (Digunakan untuk menyimpan resources audio yang nanti diperoleh dari file audio yang terdapat di Panel Project.)
+-  private AudioSource MediaPlayerBenar;
+   private AudioSource MediaPlayerSalah;
+  ( Digunakan untuk control audio baik itu untuk play, loop, pause dan stop.)
+- public Text textScore; ( Digunakan untuk menampilkan score yang telah didapat dan pastikan sudah menambah library using UnityEngine.UI;)
+- MediaPlayerBenar = gameObject.AddComponent<AudioSource>();
+        MediaPlayerBenar.clip = audioBenar;
+        MediaPlayerSalah = gameObject.AddComponent<AudioSource>();
+        MediaPlayerSalah.clip = audioSalah;
+  ( Digunakan untuk mendeklarasikan audio pada Control Audio supaya dapat dimodifikasi.)
+- private void OnTriggerEnter2D(Collider2D collision)
+    {
+
+        if (collision.tag.Equals(nameTag))
+        {
+            Data.score += 25;
+            textScore.text = Data.score.ToString();
+            Destroy(collision.gameObject);
+            MediaPlayerBenar.Play();
+        }
+  (Jika tag object yang masuk ke area Trigger adalah sesuai dengan namaTag, maka score akan dihitung dan score akan ditampilkan ke textScore. setelah itu object tersebut di-destroy dan audio untuk benar dijalankan.)
+- else
+        {
+            Data.score -= 5;
+            textScore.text = Data.score.ToString();
+            Destroy(collision.gameObject);
+            MediaPlayerSalah.Play();
+        }
+  ( Jika tag object yang masuk ke area Trigger adalah tidak sesuai dengan namaTag, maka score akan dikurangi dan score akan ditampilkan ke textScore. setelah itu object tersebut di-destroy dan audio untuk salah dijalankan.)
+- menambah scene gameplay : klik menu file, pilih build settings, add open scenes, lalu muncul list scene gameplay di daftar scenes in build. Scene yang dapat dipanggil di script hanya scene yang sudah ditambahkan di dalam daftar scenes in build
+- timer += Time.deltaTime;
+        if (timer > 2)
+        {
+            Data.score = 0;
+            SceneManager.LoadScene("Gameplay", LoadSceneMode.Single);
+  ( Saat masuk ke tampilan Gameover, ketika waktu lebih dari 2 detik, maka game akan reset seperti semua dan kembali ke Tampilan gameplay. Penggunaan MethodSceneManager.LoadScene() harus memasukkan library using UnityEngine.SceneManagement;)
+- if (Input.GetKeyUp(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+  ( Script ini berfungsi ketika keyboard menekan escape atau device mobile menekan tombol back maka Aplikasi akan keluar.)
+
+
+- max_level dan LevelUnlock: size nya lebihkan satu, karena kita tidak ada level 0 (level dimulai dari 1 sampai seterusnya).
+
+ 
+                  
+
+
+
+
+
+
+
+
+
+
+
