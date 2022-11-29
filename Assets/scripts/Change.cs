@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// script to change scene manager.
 public class Change : MonoBehaviour {
 
 	// Use this for initialization
@@ -22,7 +23,8 @@ public class Change : MonoBehaviour {
 	public void move()
 	{
 		Time.timeScale = 1;
-		SceneManager.LoadScene("Part 1 Level");
+		// SceneManager.LoadScene("Part 1 Level");
+		SceneManager.LoadScene("PartMenu");
 	}
 	public void pindah(){
         Data.score = 0;

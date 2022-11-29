@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class retry : MonoBehaviour
 
@@ -13,14 +14,23 @@ public class retry : MonoBehaviour
         if (timer > 280000000000)
         {
             Data.score = 0;
-            Application.LoadLevel("Gameplay");
-        }
-    }
+			Application.LoadLevel("Gameplay");
+			// SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+		}
+	}
 
     public void BtnReplay()
     {
         Time.timeScale = 1;
         Data.score = 0;
-        Application.LoadLevel("Gameplay");
-    }
+		Application.LoadLevel("Gameplay");
+		// SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+	}
+
+	public void Restart()
+	{
+		Time.timeScale = 1;
+		Data.score = 0;
+		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+	}
 }

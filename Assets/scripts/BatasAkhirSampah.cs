@@ -5,13 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class BatasAkhirSampah : MonoBehaviour
 {
+	public GameObject GameOverPannel;
+	bool GameOverPaused;
 
-    private void OnTriggerEnter2D(Collider2D collision)
+	private void OnTriggerEnter2D(Collider2D collision)
     {
         Destroy(collision.gameObject);
-        SceneManager.LoadScene("Gameover");
-    }
-	public void reload(){
-		Application.LoadLevel ("Gameplay");
+		Time.timeScale = 0;
+		Data.score = 0;
+		GameOverPannel.SetActive(true);
 	}
 }

@@ -1169,6 +1169,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenuUI: {fileID: 1388442245}
   isPaused: 0
+  PauseScreen: {fileID: 0}
+  PauseButton: {fileID: 0}
 --- !u!4 &1242045006
 Transform:
   m_ObjectHideFlags: 0
@@ -1573,7 +1575,7 @@ BoxCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
-    border: {x: 7, y: 4.15, z: 7, w: 3.7600002}
+    border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 20.67, y: 17}
     newSize: {x: 20.67, y: 17}

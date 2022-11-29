@@ -124,11 +124,52 @@
 
 - max_level dan LevelUnlock: size nya lebihkan satu, karena kita tidak ada level 0 (level dimulai dari 1 sampai seterusnya).
 
- 
-                  
+---------------------------------------
+PART SELECTION SCENE
 
+- quest star image adalah jumlah misi yang harus diselesaikan (total level dalam setiap part).
 
+- map star image adalah misal 1 level bernilai 3 bintang dan ada 3 level, maka jumlah bintang yang harus diraih 9. karena disini lebih ke unlock level maka pakai 3.
 
+- index selalu mulai dari 0 (nol/zero).
+
+// main map satu tidak ada required bintang. oleh karena itu, quest nya adalah zero/nol.
+- map 01:
+  index: 0
+  quest: 0
+  start level: 1
+  end level: 2                  
+// kalau mau unlock map dua, at least dapat lima stars. karena satu level sama dengan satu bintang.
+- map 02:
+  index: 1
+  quest: 2
+  start: 3
+  end: 5
+- map 03:
+  index: 2
+  quest: 12
+  start: 6
+  end: 9
+- map 04:
+  index: 3
+  quest: 24
+  start: 10
+  end: 13
+
+// unlock map 3, required stars adalah 12.
+// unlock map 4, required stars adalah 24.
+// required stars sama dengan quests.
+
+- singleton pattern is a way to ensure a class has only a single globally accessible instance available at all times. this is very useful for making global manager type classes that hold global variables and functions that many other classes need to access.
+
+- globally accessible: no need to search for or maintain a reference to a class.
+
+- persistent data: can be used to main data across scenes.
+
+- map 1: total stars 2 x 3 = 6.
+- map 2: total stars 5 x 3 = 15.
+- map 3: total stars 9 x 3 = 27.
+- map 4: total stars 13 x 3 = 39.
 
 
 

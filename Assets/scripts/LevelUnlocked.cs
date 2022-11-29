@@ -19,15 +19,18 @@ public class LevelUnlocked : MonoBehaviour
     {
         for(int i=1; i < max_level; i++)
 		{
-			if(i<=level)
+			if(i <=level)
 			{
 				levelUnlocked[i].SetActive(false);
 				Debug.Log("" + level);
+				Data.score = 0;
 
-			} else
+			}
+			else
 			{
 				levelUnlocked[i].SetActive(true);
 				Debug.Log("" + level);
+				Data.score = 0;
 			}
 		}
     }
@@ -44,11 +47,13 @@ public class LevelUnlocked : MonoBehaviour
 	{
 		level = 1;
 		PlayerPrefs.SetInt("level", level);
+		Data.score = 0;
 	}
 	// when player hit the score per level, new level will be unlock and player auto go to part 1 scene menu.
 	public void add_level()
 	{
 		Next_Level();
-		Application.LoadLevel("Part 1 Level");
+		Application.LoadLevel("PartMenu");
+		//Application.LoadLevel("Part 1 Level");
 	}
 }
